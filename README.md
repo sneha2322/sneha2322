@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sneha Yadav 👋
 
-<!--
-**sneha2322/sneha2322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a BCA student passionate about programming,
+software development, and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing Bachelor of Computer Applications
+- 💻 Learning Python, C, and C++
+- 📊 Exploring Data Science with Python
+- 🌱 Improving my coding and problem-solving skills
+- 🎯 Building practical projects and learning new technologies
+
+### Technical Skills
+- Programming: Python, C, C++
+- Libraries: Pandas (learning)
+- Tools: GitHub, VS Code
+
+### Projects
+More projects coming soon as I continue learning and building.
+
+### Goals
+To develop strong programming skills and build useful
+software and data-driven applications.
